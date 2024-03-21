@@ -1,12 +1,12 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
-## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
-## Theory 
+# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD ->
+## Aim : 
+To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+## Components required : 
+STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+## Theory :
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
- 
-  
-## Procedure:
+## Procedure :
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
@@ -49,15 +49,15 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 13. check for execution of the output using run option 
 
 
-
 ## STM 32 CUBE PROGRAM :
+![111](https://github.com/Pradeeppachiyappan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707347/2d1e7346-ec49-4582-91d7-907fa67f9622)
 
+## Output :
+### Before->
+![WhatsApp Image 2024-03-18 at 14 25 24_f1e81868](https://github.com/Pradeeppachiyappan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707347/fffc3d61-95c4-4988-b1cd-c7b9fdda96d3)
 
-
-## Output  :
- 
- 
- 
+### After->
+![WhatsApp Image 2024-03-18 at 14 25 25_078dd788](https://github.com/Pradeeppachiyappan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707347/405917ea-7428-42ff-8a0d-294d21d6ed44)
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
